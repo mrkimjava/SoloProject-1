@@ -17,8 +17,5 @@
 #### 자동번호 생성
 <img src="https://user-images.githubusercontent.com/91609858/135722733-47a68d08-db8f-45bf-bba4-d7633d7c57db.PNG" width="300" height="300"> <br>
 
-#### 자동번호 생성
-<img src="https://user-images.githubusercontent.com/91609858/135722733-47a68d08-db8f-45bf-bba4-d7633d7c57db.PNG" width="300" height="300"> <br>
-
 #### 통계 조회
-<img src="https://user-images.githubusercontent.com/91609858/135722779-e2cb1675-9917-472f-86f1-a44dbd080697.PNG" width="300" height="300"> <br>
+<img src="https://user-images.githubusercontent.com/91609858/135722779-e2cb1675-9917-472f-86f1-a44dbd080697.PNG" width="300" height="400"> <br>

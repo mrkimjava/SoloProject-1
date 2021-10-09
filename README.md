@@ -1,12 +1,12 @@
 ## Lotto 지역별 통계조회 프로그램(Console)
 
-### 주요기능
+### 🌱주요기능
   - 지역별 Lotto 자동구매 등록
   - 당첨번호/보너스번호 생성
   - 지역별 당첨 통계
   - 내역 초기화
 
-### 사용 언어 및 DB
+### 🌱사용 언어 및 DB
   - java
   - Oracle (Table, View, Procedure)
 

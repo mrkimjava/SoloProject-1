@@ -6,9 +6,9 @@
   - 지역별 당첨 통계
   - 내역 초기화
 
-### 🌱사용 언어 및 DB
-  - java
-  - Oracle (Table, View, Procedure)
+### 🌱사용 기술
+  - java, jdbc
+  - Oracle 11g(Table, View, Procedure)
 <br>
 
 ### 🌱ScreenShot <br>
